@@ -5,11 +5,9 @@ __pycache__/
 .venv/
 venv/
 
-# Data and generated files (too large / reproducible)
-data/
+# Generated files
 outputs/*
 !outputs/.gitkeep
-*.zip
 
 # OS junk
 .DS_Store

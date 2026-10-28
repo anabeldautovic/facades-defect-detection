@@ -12,7 +12,7 @@ The full write-up is in [docs/report.pdf](docs/report.pdf).
 
 ```
 data/
-  raw/                 original photos (not in the repo – add them here)
+  raw/                 original photos (add missing ones here)
   compressed/          resized JPGs, negative/ and positive/
   no_background/       same photos with the background removed (PNG)
 preprocessing/
