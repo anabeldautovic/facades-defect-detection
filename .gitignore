@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Data and generated files (too large / reproducible)
+data/
+outputs/*
+!outputs/.gitkeep
+*.zip
+
+# OS junk
+.DS_Store
+_DS_Store
+Thumbs.db
+desktop.ini

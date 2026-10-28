@@ -1,0 +1,22 @@
+# Image handling
+numpy==2.2.6
+opencv-python==4.12.0.88
+pillow==12.0.0
+pillow_heif==1.1.1
+
+# Notebooks (plots, progress bars, tables)
+matplotlib==3.10.8
+tqdm==4.67.1
+pandas==2.3.3
+
+# Background removal (notebook.ipynb)
+rembg==2.0.69
+onnxruntime==1.23.2
+
+# Deep learning: MiDaS depth in notebook.ipynb, CLIP/SigLIP in glass_detection
+torch==2.9.1
+torchvision==0.24.1
+timm==1.0.22
+transformers==4.57.3
+sentencepiece==0.2.1
+protobuf==6.33.2
